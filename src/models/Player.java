@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package buscaminas.models;
+package models;
 
 /**
  *
@@ -110,11 +110,5 @@ public class Player {
     public void setTotalTime(long totalTime) {
         this.totalTime = totalTime;
     }
-    
-    
-    
-    
-    
-    
-    
+
 }
